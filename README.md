@@ -19,7 +19,7 @@ I am Cyr, IT technician, preparing for CompTIA Security+, passionate about cyber
 
 ## Contact
 - **Twitter**: [@AurelCyr_](https://twitter.com/AurelCyr_)
-- **GitHub**: [github.com/AurelCyr](https://github.com/AurelCyr_)
+- **GitHub**: [github.com/AurelCyr](https://github.com/AurelCyr)
 - **Email**: aurelcyr001@gmail.com
 
 ## Next steps
