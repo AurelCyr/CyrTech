@@ -8,7 +8,7 @@ I am Cyr, IT technician, preparing for CompTIA Security+, passionate about cyber
 - **Inspiration**: Elon Musk and his visionary projects (Tesla, SpaceX, xAI).
 
 ## Current projects
-- Cybersecurity tools (in development, e.g.: Python scripts for network scans).
+- Cybersecurity tools (in development,).
 - Exploration of AI to detect threats (basics via online courses).
 - More ideas in progress!
 
