@@ -18,8 +18,8 @@ I am Cyr, IT technician, preparing for CompTIA Security+, passionate about cyber
 - AI learning (machine learning, neural networks).
 
 ## Contact
-- **Twitter**: [@AurelCyr_](https://twitter.com/AurelCyr)
-- **GitHub**: [github.com/CyrTech](https://github.com/AurelCyr_)
+- **Twitter**: [@AurelCyr_](https://twitter.com/AurelCyr_)
+- **GitHub**: [github.com/AurelCyr](https://github.com/AurelCyr_)
 - **Email**: aurelcyr001@gmail.com
 
 ## Next steps
