@@ -1,5 +1,5 @@
 # CyrTech
-I am Cyr, IT technician, preparing for CompTIA Security+, passionate about cybersecurity and AI. Inspired by Elon Musk, I work to innovate in tech. Follow me on Twitter @AurelCyr_ for my progress!
+I am Aurel Cyr, IT technician, preparing for CompTIA Security+, passionate about cybersecurity and AI. Inspired by Elon Musk, I work to innovate in tech. Follow me on Twitter @AurelCyr_ for my progress!
 
 ## About me
 - **Role**: IT technician with a DT in Installation and Maintenance.
